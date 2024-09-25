@@ -1,0 +1,8 @@
+Current score player 1:
+0
+Current score player 2:
+0
+High score player 1:
+61
+High score player 2:
+21
